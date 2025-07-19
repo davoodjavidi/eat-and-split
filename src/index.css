@@ -32,6 +32,10 @@ body {
   align-items: start;
 }
 
+.name-title {
+  text-transform: capitalize;
+}
+
 .button {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: var(--color-medium);
